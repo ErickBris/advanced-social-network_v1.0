@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="I:\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-055e769b937ee13c50ae955abd50d0b54e2ffe92.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-2fac93ab1408b6ca372c7dc157e4c6fff1857793.jar" />
+    </item>
+    <item
+        jar="I:\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-e97244c00cc08281009b86666def4a23197fc378.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-999dbe95b87522ab833b2f8ee8d379c5b7de0b49.jar" />
+    </item>
+    <item
+        jar="I:\SocNetwork\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-34f2e63d8ccadfd4df60f3f6424f2d556b918f34.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi-136465f29a98f8dbb1a5fc68387c13345cd9b926.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-4476f1431939458255ce66d9c22ade2c0908f9c9.jar" />
+    </item>
+    <item
+        jar="I:\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-a79dd85ad51a07ce8025ef6a0b2b601f4648e2d3.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-738643d1fe8b5f11192c33f522751e1ac0898f54.jar" />
+    </item>
+    <item
+        jar="I:\SocNetwork\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-4d9fd6dc10966b1940ca7d8177d8fcb3ba096897.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-a3b2d8f691e542e10df651a072749396384274eb.jar" />
+    </item>
+    <item
+        jar="I:\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-56289443f19d5ee5c10269cec679e9404ce01442.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-f5b9ba0605e40f9d969d7194191fdf1dcd79af33.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-182429a2b7b5924b91bf703fe2b49084d637cf44.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-aec62b087137febdfd9d148d130abbbb252f2e45.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-52f0f1f94895ef04a0c098c23681f7463ddd38e6.jar" />
+    </item>
+    <item
+        jar="I:\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-09cda81ff458fa95819d2ef3510c3061fddb8c8d.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-6364354698899b6cb932e8eb25e978fc1f557664.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-64a48e026c466cecb616ca9ab9c9e700f2cf1c4e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ben Cherif\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-2e23683fdf85cff859602681a07a55692f6c4bb7.jar" />
+    </item>
+    <item
+        jar="I:\SocNetwork\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-ab0902239b763ced0b3fe78847d0ce7b559f8ed2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ben Cherif\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-55571e0f356d80bc9436498a9f026a42ff929c32.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-29b458f3758c90b61294290187aa3bf8b2e4013f.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-b6c95bd30a6ed4ff7f0c95d236abdc6af3fdfbc6.jar" />
+    </item>
+    <item
+        jar="I:\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-56268b40d93a95444fc30233019df599b866b7c6.jar" />
+    </item>
+    <item
+        jar="I:\SocNetwork\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-d02095aabd2edfed3196fe01328798bc5e2e8894.jar" />
+    </item>
+    <item
+        jar="I:\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-b3b85f56f85ec6111d7db633d600c99983db21c5.jar" />
+    </item>
+    <item
+        jar="I:\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-0dd87322c8bab80524160d63b8530b2d384fbd6e.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-293a23a6e33999b838f911c37666dfd9bd283dcc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ben Cherif\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\gson-2.3.1-976da79c45ca3f3700b51c09f8a4ef9ca3158e1d.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-f3e5a04e603c4904033a718c37c5c586e4e6bae8.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-a0869a80149191cd48bb3b5ee976e6f0760a8241.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-3974b5fd706a102f1b15d3a91a34a787c03b0efe.jar" />
+    </item>
+    <item
+        jar="I:\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-4d383317107935c32a1e0522dce2ee34829aaf49.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ben Cherif\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.4.0\5b72bf48563ea8410e650de14aa33ff69a3e8c35\okio-1.4.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\okio-1.4.0-3161ecc6210a0a398aa1b5b9ccc8e3297651a9b4.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-3c91c3c98437d9c4069ffa14f1bc00665be2f32c.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-9fa20f0f8635e2fe2b3c8c1a74fc49d9183eee6f.jar" />
+    </item>
+    <item
+        jar="I:\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-f628455ce4967c81cbcac386c8d8955d0f1b92a8.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-0265d2305e8b7180219f18f1fd583d83457847be.jar" />
+    </item>
+    <item
+        jar="I:\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-eb7f67596499f7b2547bf5bd80854fe6f777f18b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ben Cherif\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\okhttp-2.4.0-6ec4d966c7ec5e1f62cd8f1ba844b87081ab0ff3.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-3d99c1d8e903750607e87fee71bbd1545a421139.jar" />
+    </item>
+    <item
+        jar="I:\SocNetwork\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-0891cddb79e3ed9f3600cb23df07dd17f857b263.jar" />
+    </item>
+    <item
+        jar="I:\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-bfa2a3aaf338db7c246bb96f0cf591b807eb86b3.jar" />
+    </item>
+    <item
+        jar="I:\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-1d703d5eb94d1dec317a71887ae850023d6ffb11.jar" />
+    </item>
+    <item
+        jar="I:\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-c62e519f263e759637ce9c8f287748e976e9fe0d.jar" />
+    </item>
+    <item
+        jar="I:\SocNetwork\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-e6b31d252d9b62f28efcb4f026e20a29d09cf4a8.jar" />
+    </item>
+    <item
+        jar="I:\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-c7614aede31ce9134359b0eab30ab7fe021a978c.jar" />
+    </item>
+    <item
+        jar="I:\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-ca4744c598e15eed40710864cb9b379a4163425b.jar" />
+    </item>
+    <item
+        jar="I:\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-60b098988b7d1ef5c06f6d0ffa66b036f707d3b3.jar" />
+    </item>
+    <item
+        jar="I:\SocNetwork\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-9aee4538cd7a178ffb3a793ba32804040cca6b81.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-a50a7210d454dc44b32bff045e15228e84c5c653.jar" />
+    </item>
+    <item
+        jar="I:\SocNetwork\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-bd437b521e515d7e77135a112d6ef3ff1da88ee8.jar" />
+    </item>
+    <item
+        jar="I:\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-5e239e595e928c42716ef0886407877358267a92.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-7f24703ea9eaa5e4dc69f0580418bfd9b636dfce.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-fd29e3f59569a3021b791ac0dd804e8c246523eb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ben Cherif\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-72b971c2d6b1b5a0d50b6f6842a535fb00ce98e0.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-1c2617eb925e17a144088140c17c7e1103bf0019.jar" />
+    </item>
+    <item
+        jar="I:\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-9010c99550bb734caf243f937ab669829f58b3e9.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-d7dc474abcb9dd5f5aecf84c3457029ef6a84b17.jar" />
+    </item>
+    <item
+        jar="I:\SocNetwork\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi-386f728778d1312844c970fbc131fa8a613a4460.jar" />
+    </item>
+    <item
+        jar="I:\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="I:\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-1dc75cad810ea8cfaf1f3cd295bb3be75a82154e.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-fe813571c62b8e68cba95358dc705fcd95b4cc8c.jar" />
+    </item>
+    <item
+        jar="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="I:\updates\new update (groups+Hashtag+mention)\Hashtag+Mention\SocNetwork\app\build\intermediates\pre-dexed\debug\classes-0a2ea1f6357b91d7a1100475073eb2e0e828dabd.jar" />
+    </item>
+
+</items>

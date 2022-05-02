@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- view background color -->
+    <solid android:color="@color/posts_item_bg"/>
+    <!-- Here is the corner radius -->
+    <corners android:radius="@dimen/postsItemCornersRadius"/>
+    <!-- <stroke android:width="1dp" android:color="@color/postBorder"/> -->
+
+</shape>

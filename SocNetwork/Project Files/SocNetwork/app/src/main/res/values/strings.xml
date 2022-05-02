@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Admob unit ad -->
+    <string name="ad_unit_id">ca-app-pub-6768791965479873/7565633641</string>
+    <!-- app strings -->
+    <string name="app_name">SocNetwork</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="useCount">1200 Uses</string>
+    <string name="viewsCount">3655 Views</string>
+    <string name="status">Science is a beautiful and emotional human endeavor, says Brannon Braga, executive producer and director</string>
+    <string name="profilName">Atouch Mohamed</string>
+    <string name="profilJob">Developer</string>
+    <string name="profilAdress">Agadir, Morocco</string>
+    <string name="follow">Follow</string>
+    <string name="contact">CONTACT</string>
+    <string name="featuredPhotos">Featured photos</string>
+    <string name="loadMore">Load More</string>
+    <string name="urStatus">Write somthing&#8230;</string>
+    <string name="publicPrivacy">To Public</string>
+    <string name="privatePrivacy">To Followers</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="update">Update</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="job">Job</string>
+    <string name="name">Full Name</string>
+    <string name="address">Address</string>
+    <string name="email">E-mail</string>
+    <string name="passwordConfirm">Confirm Password</string>
+    <string name="chooseAvatar">Choose Avatar</string>
+    <string name="typeComment">Type a comment&#8230;</string>
+    <string name="message_elipses">Type Message&#8230;</string>
+    <string name="Agree">I agree</string>
+    <string name="phoneNumber">Phone number</string>
+
+    <string name="drawer_open"/>
+    <string name="drawer_close"/>
+    <string name="verify">Verify</string>
+
+    <string name="search_elipses">Name or E-mail</string>
+    <string name="verifyCode">Insert The Code That you received</string>
+    <item name="TAG_OBJECT" type="id"/>
+    <item name="TAG_VIEW" type="id"/>
+    <item name="TAG_LIKE_ACTION" type="id"/>
+    <item name="TAG_FOLLOW_ACTION" type="id"/>
+
+    <string-array name="navDrawerItems">
+        <item>Home</item>
+        <item>Following</item>
+        <item>Find People</item>
+        <item>Favorites</item>
+        <item>Messages</item>
+        <item>Settings</item>
+        <item>Disclaimer</item>
+        <item>Logout</item>
+    </string-array>
+
+    <array name="navDrawerIcons">
+        <item>@drawable/ic_action_home</item>
+        <item>@drawable/ic_action_following</item>
+        <item>@drawable/ic_action_following</item>
+        <item>@drawable/ic_action_favorite</item>
+        <item>@drawable/ic_chat</item>
+        <item>@drawable/ic_action_settings</item>
+        <item>@drawable/ic_info</item>
+        <item>@drawable/ic_action_logout</item>
+    </array>
+
+    <string name="publish">Add New Post</string>
+    <string name="settings">Settings</string>
+    <string name="medMe">ME</string>
+    <string name="medMessage">hello bro ho are you today i saw this afternoon with ur girl friend near our house am i right ?</string>
+    <string name="medName">Mohamed Atouch</string>
+    <string name="medStatus">Hey There! I am using NetworkSocial</string>
+    <string name="medEmail">atouch.mohamed@gmail.com</string>
+    <string name="medLastSeen">12:35 29/12/2014</string>
+    <string name="medLastMessage">hello bro ho are you today i saw this afternoon with ur girl friend</string>
+    <string name="medDate">5 days ago</string>
+    <string name="title_disclaimer">Disclaimer</string>
+    <string name="title_login">Login</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_post">Post</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_following">Following</string>
+    <string name="title_messages">Messages</string>
+    <string name="title_find_people">Find People</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="report">Report</string>
+    <string name="title_activity_profile_preview">ProfilePreview</string>
+    <string name="title_activity_post_comments">PostComments</string>
+    <string name="title_activity_youtube_video_player">YoutubeVideoPlayer</string>
+    <string name="title_activity_map_preveiw">MapPreveiw</string>
+    <string name="title_activity_full_screen_image_view">FullScreenImageViewActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_followers">Followers</string>
+    <string name="ServerError">Unexpected response from the server</string>
+    <string name="SomethingWentWrong">Something Went Wrong</string>
+    <string name="UnFollow">UNFOLLOW</string>
+    <string name="Follow">FOLLOW</string>
+    <string name="Insert_a_link">Insert a link</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="Error_empty_post">You can\'t share an empty post</string>
+    <string name="changed_to_private">Privacy changed to private</string>
+    <string name="changed_to_public">Privacy changed to public</string>
+    <string name="username_is_short">Username too short</string>
+    <string name="invalid_email">E-mail Invalid</string>
+    <string name="password_is_short">Password too short</string>
+    <string name="Passwords_does_not_much">Passwords does not match</string>
+    <string name="select_picture">Select Picture</string>
+    <string name="Make_sure">Are you sure?</string>
+    <string name="Yes">YES</string>
+    <string name="No">NO</string>
+    <string name="name_is_to_short">name too short</string>
+    <string name="job_too_short">job too short</string>
+    <string name="Adresse_too_short">Address too short</string>
+    <string name="select_an_image">Select an image</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="image_failed">Image download failed</string>
+    <string name="set_as_wallpaper">Image set as your phone wallpaper</string>
+    <string name="sharePost">Share Post</string>
+    <string name="title_publish">Publish</string>
+    <string name="type_comment">type a comment</string>
+    <string name="invitation_title">Invite Your Friends</string>
+    <string name="invitation_message">Hey Friend(s) Try This Out</string>
+    <string name="logout">Logout</string>
+    <string name="title_hashtag">hashtag</string>
+</resources>

@@ -1,0 +1,12 @@
+/*
+ * Droid Arabic Naskh (Arabic) http://www.google.com/fonts/earlyaccess
+
+@import url(https://fonts.googleapis.com/earlyaccess/droidarabicnaskh.css);
+/*
+ * Droid Arabic Kufi (Arabic) http://www.google.com/fonts/earlyaccess
+
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabickufi.css);*/
+@import url(http://fonts.googleapis.com/css?family=Ubuntu);
+body {
+font-family: 'Ubuntu', sans-serif;
+}

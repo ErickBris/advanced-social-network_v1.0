@@ -1,0 +1,194 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppTheme" parent="AppTheme.Base">
+
+    </style>
+    <!-- Application theme. -->
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryColorDark</item>
+        <item name="colorAccent">@color/accentColor</item>
+        <item name="colorControlHighlight">@color/primary_high_light</item>
+        <!-- <item name="textColorPrimary">@color/ColorPrimaryText</item> -->
+    </style>
+
+    <style name="ToolBarStyle" parent="ThemeOverlay.AppCompat.Dark">
+        <item name="android:textColorPrimary">#ffffff</item>
+    </style>
+    <style name="option" parent="Theme.AppCompat.Light">
+
+    </style>
+
+    <style name="Dialog" parent="Base.Theme.AppCompat.Light.Dialog">
+
+    </style>
+
+
+    <style name="postOwnerName">
+        <item name="android:textColor">@color/postOwner</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="postPublishDate">
+        <item name="android:textColor">@color/postPublishDate</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="postStatus">
+        <item name="android:textColor">@color/postStatus</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="viewsCount">
+        <item name="android:textColor">@color/footerText</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="useCount">
+        <item name="android:textColor">@color/footerText</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="actionAreaBtns">
+        <item name="android:layout_margin">8dp</item>
+    </style>
+
+    <style name="buttons">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:paddingRight">5dp</item>
+        <item name="android:paddingLeft">5dp</item>
+    </style>
+
+    <style name="profileName">
+        <item name="android:textColor">@color/profileName</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="profileJob">
+        <item name="android:textColor">@color/profileJob</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="profileAdress">
+        <item name="android:textColor">@color/profileAdress</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="featuredPhotos">
+        <item name="android:textColor">@color/featuredPhotos</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+    </style>
+
+    <style name="statusEditText">
+        <item name="android:background">@drawable/bg_status_editetxt</item>
+        <item name="android:textColorHint">@color/statusEditTextBorder</item>
+        <item name="android:textColor">@color/actionBar</item>
+    </style>
+
+    <style name="newStatusHeader">
+        <item name="android:background">@drawable/bg_newstatus_header</item>
+    </style>
+
+    <style name="newStatusFooter">
+        <item name="android:background">@drawable/bg_newstatus_header</item>
+    </style>
+
+    <style name="newStatusBody">
+        <item name="android:background">@drawable/bg_newstatus_header</item>
+    </style>
+
+    <style name="drawerListItem">
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:textColor">@color/postPublishDate</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+    </style>
+
+    <style name="drawerListItemIcon">
+        <item name="android:layout_marginLeft">12dp</item>
+        <item name="android:layout_marginRight">12dp</item>
+        <item name="android:layout_width">25dp</item>
+    </style>
+
+    <style name="editText">
+        <item name="android:textColorHint">#B7B7B7</item>
+        <item name="android:textColor">@color/primaryColor</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="loginLayout">
+        <item name="android:layout_margin">20dp</item>
+    </style>
+
+    <style name="logintBtn">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="commentOwnerName">
+        <item name="android:textColor">@color/primaryColor</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="commentText">
+        <item name="android:textColor">@color/postPublishDate</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="commentDate">
+        <item name="android:textColor">@color/postPublishDate</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="message_text">
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_marginLeft">@dimen/message_text_margin</item>
+    </style>
+
+    <style name="message_image">
+        <item name="android:layout_marginLeft">@dimen/message_image_margin</item>
+    </style>
+
+    <style name="conversation_name">
+        <item name="android:textColor">@color/primaryColorDark</item>
+        <item name="android:textSize">@dimen/head_line</item>
+    </style>
+
+    <style name="conversation_last_message">
+        <item name="android:textSize">@dimen/body_line</item>
+        <item name="android:textColor">@color/dark_gray</item>
+    </style>
+
+    <style name="conversation_date">
+        <item name="android:textSize">@dimen/small_line</item>
+        <item name="android:textColor">@color/dark_gray</item>
+    </style>
+
+    <style name="messaging_input">
+        <item name="android:background">@drawable/bg_messaging</item>
+        <item name="android:padding">@dimen/messaging_input_padding</item>
+        <item name="android:textColorHint">@color/actionBar</item>
+        <item name="android:textSize">@dimen/body_line</item>
+        <item name="android:textColor">@color/actionBar</item>
+    </style>
+
+    <style name="messages_item">
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:paddingLeft">10dp</item>
+    </style>
+
+    <style name="head_line">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="body_line">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+</resources>

@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 't3lam1';
+	src: url("../fonts/GE_SS_Two_Light.otf");
+	src: url("../fonts/GE_SS_Two_Light.otf?") format("otf"),
+}
+body {
+font-family: 't3lam1', Tahoma;
+}
+input,textarea{
+	font-family: Tahoma;
+}

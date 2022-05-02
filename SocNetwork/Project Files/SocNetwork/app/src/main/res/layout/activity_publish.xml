@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/postBg"
+              android:orientation="vertical"
+              tools:ignore="ContentDescription">
+
+    <include
+        android:id="@+id/app_bar"
+        layout="@layout/app_bar"/>
+
+    <LinearLayout
+        android:id="@+id/newStatusHeader"
+        style="@style/newStatusHeader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp">
+
+        <ImageView
+            android:id="@+id/postOwnerImage"
+            android:layout_width="60dp"
+            android:layout_height="60dp"/>
+
+        <LinearLayout
+            android:id="@+id/headerInfoContainer"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:padding="@dimen/postsItemMargin">
+
+            <TextView
+                android:id="@+id/postOwnerName"
+                style="@style/postOwnerName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"/>
+
+            <TextView
+                android:id="@+id/postPrivacy"
+                style="@style/postPublishDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/publicPrivacy"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#E9E9E9"/>
+
+    <LinearLayout
+        android:id="@+id/newStatusBody"
+        style="@style/newStatusBody"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imagePreview"
+            android:layout_width="wrap_content"
+            android:layout_height="170dp"
+            android:scaleType="centerCrop"
+            android:visibility="gone"/>
+
+        <EditText
+            android:id="@+id/statusEdittext"
+            style="@style/statusEditText"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:gravity="top|left"
+            android:hint="@string/urStatus"
+            android:inputType="textMultiLine"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:orientation="vertical">
+
+        <LinearLayout
+
+            android:id="@+id/placePreviewLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:visibility="gone">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:src="@drawable/ic_place_black"/>
+
+            <TextView
+                android:id="@+id/placeValuePreview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="Rue Ibn ElArabi, Agadir 80000, Morocco"
+                android:textColor="@color/primary_high_light"/>
+
+            <TextView
+                android:id="@+id/removePlace"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:padding="4dp"
+                android:textStyle="bold"
+                android:textColor="@android:color/holo_red_light"
+                android:text="X"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/urlPreviewLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:visibility="gone"
+            >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:src="@drawable/ic_insert_link_black"/>
+
+            <TextView
+                android:id="@+id/urlValuePreview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="https://www.atouchlab.com"
+                android:textColor="@color/primary_high_light"/>
+            <TextView
+                android:id="@+id/removeLink"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:padding="4dp"
+                android:textStyle="bold"
+                android:textColor="@android:color/holo_red_light"
+                android:text="X"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#E9E9E9"/>
+
+    <LinearLayout
+        android:id="@+id/newStatusFooter"
+        style="@style/newStatusFooter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <ImageButton
+                android:id="@+id/addPhoto"
+                style="@style/actionAreaBtns"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_camera_button"/>
+
+            <ImageButton
+                android:id="@+id/addPlace"
+                style="@style/actionAreaBtns"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_place_button"/>
+
+            <ImageButton
+                android:id="@+id/addLink"
+                style="@style/actionAreaBtns"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_insert_link_button"/>
+
+            <ImageButton
+                android:id="@+id/changePrivacy"
+                style="@style/actionAreaBtns"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_privacy_button"/>
+        </LinearLayout>
+
+        <ImageButton
+            android:id="@+id/sendStatus"
+            style="@style/actionAreaBtns"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_publish_button"/>
+    </LinearLayout>
+
+</LinearLayout>

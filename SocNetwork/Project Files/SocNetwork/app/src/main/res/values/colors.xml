@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#1976D2</color>
+    <color name="primaryColorDark">#2196F3</color>
+    <color name="accentColor">#FF4081</color>
+    <color name="primary_high_light">#2196F3</color>
+    <color name="ColorPrimaryText">#212121</color>
+    <color name="white">#ffffff</color>
+    <color name="post_bg">#C9C9C9</color>
+    <color name="posts_item_bg">#ffffff</color>
+    <color name="posts_item_border">#c2c3c8</color>
+    <color name="link">#0a80d1</color>
+    <color name="timestamp">#a0a3a7</color>
+    <color name="postItemBg">#ffffff</color>
+    <color name="postBg">#E0E0E0</color>
+    <color name="actionBar">#E91E63</color>
+    <color name="postHeaderBg">#ffffff</color>
+    <color name="postOwner">#000000</color>
+    <color name="postPublishDate">#898A8C</color>
+    <color name="postStatus">#8A8A8A</color>
+    <color name="footerText">#535353</color>
+    <color name="postBorder">#E9E9E9</color>
+    <color name="followButton">#E91E63</color>
+    <color name="followButtonPressed">#F06898</color>
+    <color name="contactButton">#FFAB40</color>
+    <color name="contactButtonPressed">#FFC279</color>
+    <color name="profileName">#03A9F4</color>
+    <color name="profileJob">#99ffffff</color>
+    <color name="profileAdress">#99ffffff</color>
+    <color name="featuredPhotos">#383838</color>
+    <color name="statusEditTextBorder">#AAAAAA</color>
+    <color name="newStatusHeaderFooter">#EEEEEE</color>
+    <color name="drawerListDivider">#58BA53</color>
+    <color name="drawerListBackground">#FFFFFF</color>
+    <color name="drawerListBackgroundPressed">#FCDCE8</color>
+    <color name="outgoing_message">#03A9F4</color>
+    <color name="incoming_message">#47244C</color>
+    <color name="messaging_input">#FFFFFF</color>
+    <color name="green">#99D51E</color>
+    <color name="greenDark">#8DC41C</color>
+    <color name="dark_gray">#ffb3b3b3</color>
+    <color name="very_dark_gray">#636363</color>
+
+    <color name="gray">#E6E6E6</color>
+    <color name="main">#03A9F4</color>
+    <color name="mainDark">#3497DA</color>
+</resources>

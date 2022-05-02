@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/homeItem"
+            android:checked="true"
+            android:icon="@drawable/ic_action_home"
+            android:title="@string/title_home"/>
+        <item
+            android:id="@+id/followingItem"
+            android:icon="@drawable/ic_action_following"
+            android:title="@string/title_following"/>
+
+        <item
+            android:id="@+id/followersItem"
+            android:icon="@drawable/ic_action_following"
+            android:title="@string/title_followers"/>
+
+        <item
+            android:id="@+id/findPeopleItem"
+            android:icon="@drawable/ic_action_search"
+            android:title="@string/title_find_people"/>
+
+        <item
+            android:id="@+id/favoritesItem"
+            android:icon="@drawable/ic_action_favorite"
+            android:title="@string/title_favorites"/>
+
+        <item
+            android:id="@+id/messagesItem"
+            android:icon="@drawable/ic_chat"
+            android:title="@string/title_messages"/>
+        <item
+            android:id="@+id/settingsItem"
+            android:icon="@drawable/ic_action_settings"
+            android:title="@string/settings"/>
+
+        <item
+            android:id="@+id/logoutItem"
+            android:icon="@drawable/ic_action_logout"
+            android:title="@string/logout"/>
+
+        <item
+            android:id="@+id/disclaimerItem"
+            android:icon="@drawable/ic_info"
+            android:title="@string/title_disclaimer"/>
+    </group>
+</menu>

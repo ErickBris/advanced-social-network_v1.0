@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/white"
+              android:orientation="vertical">
+
+    <include
+        android:id="@+id/app_bar"
+        layout="@layout/app_bar"/>
+
+    <LinearLayout
+        style="@style/loginLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="5dp"
+        tools:ignore="UselessParent">
+
+        <ImageView
+            android:id="@+id/avatar"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/logo"/>
+
+        <Button
+            android:id="@+id/chooseAvatar"
+            style="@style/logintBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/bg_follow_button"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="@string/chooseAvatar"/>
+
+        <EditText
+            android:id="@+id/username"
+            style="@style/editText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/username"
+            android:inputType="text"/>
+
+        <EditText
+            android:id="@+id/email"
+            style="@style/editText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/email"
+            android:inputType="textEmailAddress"/>
+        >
+
+        <EditText
+            android:id="@+id/password"
+            style="@style/editText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/password"
+            android:inputType="textPassword"/>
+
+        <EditText
+            android:id="@+id/passwordConfirm"
+            style="@style/editText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/passwordConfirm"
+            android:inputType="textPassword"/>
+
+        <Button
+            android:id="@+id/registerBtn"
+            style="@style/logintBtn"
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/bg_follow_button"
+            android:text="@string/register"/>
+    </LinearLayout>
+
+</LinearLayout>

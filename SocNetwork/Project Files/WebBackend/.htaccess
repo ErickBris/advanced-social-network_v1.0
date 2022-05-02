@@ -1,0 +1,46 @@
+Options All -Indexes
+RewriteEngine on
+RewriteBase /EnvatoNetwork/
+# Posts Operations
+RewriteRule ^login$ api.php?cmd=login
+RewriteRule ^register$ api.php?cmd=register
+#-----------------------------------------
+RewriteRule ^chat/all/([0-9]+)$ api.php?cmd=conversations&page=$1
+RewriteRule ^chat/get/([0-9]+)/([0-9]+)/([0-9]+)$ api.php?cmd=getConversation&id=$1&recipientID=$2
+RewriteRule ^chat/add$ api.php?cmd=addMessage
+#-----------------------------------------
+RewriteRule ^posts/publish$ api.php?cmd=publish
+RewriteRule ^posts/liked/([0-9]+)$ api.php?cmd=liked&page=$1
+RewriteRule ^posts/all/([0-9]+)$ api.php?cmd=posts&page=$1
+RewriteRule ^posts/all/(.*)/([0-9]+)$ api.php?cmd=posts&hashtag=$1&page=$2
+RewriteRule ^posts/user/([0-9]+)/([0-9]+)$ api.php?cmd=posts&userid=$1&page=$2
+RewriteRule ^posts/get/([0-9]+)$ api.php?cmd=post&id=$1
+RewriteRule ^posts/update/([0-9]+)$ api.php?cmd=updatePost&id=$1
+RewriteRule ^posts/delete/([0-9]+)$ api.php?cmd=deletePost&id=$1
+RewriteRule ^posts/report/([0-9]+)$ api.php?cmd=reportPost&id=$1
+RewriteRule ^posts/like/([0-9]+)$ api.php?cmd=like&id=$1
+RewriteRule ^posts/unlike/([0-9]+)$ api.php?cmd=unlike&id=$1
+RewriteRule ^users/regid/$ api.php?cmd=updateRegID
+#------------------------------------------
+RewriteRule ^users/get/([0-9]+)$ api.php?cmd=users&id=$1
+RewriteRule ^users/following$ api.php?cmd=getFollowing
+RewriteRule ^users/followers$ api.php?cmd=getFollowers
+RewriteRule ^users/search$ api.php?cmd=searchFriend
+RewriteRule ^users/follow/([0-9]+)$ api.php?cmd=followToggle&id=$1
+RewriteRule ^users/update$ api.php?cmd=updateProfile
+RewriteRule ^image/small/(.*)$ safe_image.php?id=$1&p
+RewriteRule ^image/cover/(.*)$ safe_image.php?id=$1&c
+RewriteRule ^image/large/(.*)$ safe_image.php?id=$1
+#---
+
+RewriteRule ^place/(.*)/(.*)$ api.php?cmd=place&lng=$1&lat=$2
+RewriteRule ^map/get$ api.php?cmd=map
+
+#------
+
+RewriteRule ^comments/post/([0-9]+)$ api.php?cmd=getComments&id=$1
+RewriteRule ^comments/add/([0-9]+)$ api.php?cmd=comment&id=$1
+RewriteRule ^comments/delete/([0-9]+)$ api.php?cmd=deleteComment&id=$1
+#RewriteRule ^posts/(.*)$ test.php?cmd=posts&id=$1
+RewriteRule ^terms$ api.php?cmd=disclaimer
+RewriteRule ^link/(.*)$ api.php?cmd=getLink&hash=$1
